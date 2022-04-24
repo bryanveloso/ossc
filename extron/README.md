@@ -6,17 +6,17 @@
 
 1. NES
 2. SNES
-3. NINTENDO 64
+3. GENESIS
 4. GAMECUBE
-5. GENESIS
+5. NINTENDO 64
 6. SATURN
-7. _
-8. _
+7. PC ENGINE
+8. MISTER FPGA
    
 ### Outputs
 
-1. Sony BVM-D20F1U
-2. _
+1. Sony BVM-D20F1U (RGBS)
+2. Sony BVM-D20F1U (YPbPr)
 3. _
 4. _
 5. _
@@ -28,14 +28,14 @@
 
 ### Inputs
 
-1. _
-2. _
+1. Analogue NT Mini
+2. Analogue Super NT
 3. _
 4. _
 5. _
 6. _
-7. Framemeister
-8. OSSC
+7. OSSC
+8. Framemeister
 
 ### Outputs
 
